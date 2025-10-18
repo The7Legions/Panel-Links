@@ -1,8 +1,9 @@
 <configs>
 	<entry>
-		<date>2025-08-09T00:00:00Z</date>
-		<title>The 7 Legions Website Link</title>
-		<text>Website</text>
 		<link>https://The7Legions.com</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>The 7 Legions Mods</title>
+		<text></text><imagerelpath></imagerelpath>
 	</entry>
 </configs>
