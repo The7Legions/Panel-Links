@@ -1,8 +1,9 @@
 <configs>
 	<entry>
-		<date>2025-08-09T00:00:00Z</date>
-		<title>The 7 Legions Ark Voting Link</title>
-		<text>Ark Voting</text>
 		<link>https://ark-servers.net/server/374107/</link> 
+		<!-- leave the rest unchanged -->
+		<date>2024-01-01 12:00:00Z</date>
+		<title>The 7 Legions Mods</title>
+		<text></text><imagerelpath></imagerelpath>
 	</entry>
 </configs>
