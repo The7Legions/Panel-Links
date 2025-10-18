@@ -1,9 +1,8 @@
 <configs>
-	<entry>
-		<link>https://discord.gg/the7legions</link> 
-		<!-- leave the rest unchanged -->
-		<date>2024-01-01 12:00:00Z</date>
-		<title>The 7 Legions Mods</title>
-		<text></text><imagerelpath></imagerelpath>
-	</entry>
+  <entry>
+    <date>2025-08-09T00:00:00Z</date>
+    <title>The 7 Legions Mods</title>
+    <text>Click below to join the official mod server for support and memes!</text>
+   <link>https://discord.gg/the7legions</link>
+  </entry>
 </configs>
